@@ -14,4 +14,4 @@ let viewport = ViewportDesc::new(1920, 1080)
 
 ## 라이선스
 
-Dual-licensed under [MIT](LICENSE-MIT) or [Apache-2.0](LICENSE-APACHE).
+Licensed under the [MIT License](LICENSE).
