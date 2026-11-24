@@ -12,6 +12,8 @@ let viewport = ViewportDesc::new(1920, 1080)
 
 상위 범용 명세와 문서 상태 규칙(`확정` / `제안` / `미정`)은 [`hyperish/docs`](https://github.com/hyperish/docs)를 따릅니다.
 
+현재는 스캐폴딩 단계이며 제품 범위와 설계 문서가 아직 없습니다. 범위와 다른 레포와의 경계는 `hyperish/docs`의 `docs/07-open-questions.md`에서 추적합니다.
+
 ## 라이선스
 
 Licensed under the [MIT License](LICENSE).
